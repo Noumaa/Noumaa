@@ -1,5 +1,5 @@
 # 👋 Bienvenue !
-Salut ! Je suis [Votre Nom], un passionné de la programmation et du développement logiciel. J'ai créé ce espace GitHub pour partager mon travail, mes projets et mes contributions à la communauté open source. Merci de prendre le temps de jeter un coup d'œil à ce que j'ai à offrir.
+Salut ! Moi c'est [Nouma], un passionné par le développement et la culture informatique en général. Merci de prendre le temps de jeter un coup d'œil à mes projets !
 
 ## 🚀 Mes domaines
 
