@@ -1,5 +1,5 @@
 # 👋 Bienvenue !
-Salut ! Moi c'est [Nouma], un passionné par le développement et la culture informatique en général. Merci de prendre le temps de jeter un coup d'œil à mes projets !
+Salut ! Moi c'est Nouma, un passionné par le développement et la culture informatique en général. Merci de prendre le temps de jeter un coup d'œil à mes projets !
 
 ## 🚀 Mes domaines
 
