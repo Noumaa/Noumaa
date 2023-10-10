@@ -12,7 +12,8 @@ Salut ! Moi c'est [Nouma], un passionné par le développement et la culture inf
 <!-- J'ai travaillé sur une variété de projets, allant des petits scripts aux applications complexes. Voici quelques-uns de mes projets les plus récents : -->
 
 1. [BTA Modding](https://github.com/Noumaa/BTA-Modding) - Un site communautaire à des fins de partage d'addons.
-2. [MatchJob](https://github.com/Noumaa/MatchJob) - Application web Symfony de mise en relation de l'offre et de la demande du marché de l'emploi.  
+2. [MatchJob](https://github.com/Noumaa/MatchJob) - Application web Symfony de mise en relation de l'offre et de la demande du marché de l'emploi.
+
 N'hésitez pas à explorer mes dépôts pour en savoir plus.
 
 ## 🤝 Collaborations
