@@ -4,9 +4,7 @@ Salut ! Moi c'est Nouma, un passionné par le développement et la culture infor
 ## 🚀 Mes domaines
 
 - 💻 Développement Web (Symfony, Django, API REST)
-- 🌐 Technologies web front-end (React, Vue.js)
 - 🚀 Développement d'applications (Java, C#, Python)
-- 📱 Développement mobile (Android)
 
 ## 🌐 A propos de mes projets
 <!-- J'ai travaillé sur une variété de projets, allant des petits scripts aux applications complexes. Voici quelques-uns de mes projets les plus récents : -->
